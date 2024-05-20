@@ -1,0 +1,17 @@
+export default {
+  'commentForm.input.placeholder': 'Add a comment...',
+  'commentForm.cancelButton.title': 'Cancel',
+  'commentForm.replyButton.title': 'Reply',
+  'commentForm.sendButton.title': 'Send',
+  'commentItem.replyButton.title': 'Reply',
+  'commentsListContainer.noCommentsMessage': 'No comments yet',
+  'commentScreen.loadingMessage': 'Loading comments...',
+  'commentScreen.errorMessage': 'Error: {{commentsError}}',
+  'common.years': '{{years}} y',
+  'common.months': '{{months}} mo',
+  'common.weeks': '{{weeks}} w',
+  'common.days': '{{days}} d',
+  'common.hours': '{{hours}} h',
+  'common.minutes': '{{minutes}} m',
+  'common.seconds': '{{seconds}} s',
+};
