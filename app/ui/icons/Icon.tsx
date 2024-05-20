@@ -12,6 +12,7 @@ export type IconProps = {
   color?: ColorValue;
   colorKey?: string;
   alt?: boolean;
+  fillColor?: ColorValue;
 } & SvgProps;
 
 export const Icon = memo(

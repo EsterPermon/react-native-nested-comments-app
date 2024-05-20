@@ -4,6 +4,7 @@ export const Colors = {
   transparent: 'transparent',
   skooveRed: '#FF003D',
   skooveBlue: '#567BD9',
+  skooveLighterBlue: '#34AAFF', // also not sure about naming
   skooveLightBlue: '#E4F0FF',
   primary_100: '#F0E4FF',
   primary_700: '#6941C6',
@@ -16,4 +17,5 @@ export const Colors = {
   greysGrey6: '#334253',
   greysGrey7: '#B9B9B9',
   greysLight: '#F5F5F5',
+  gray300: '#d0d5dd', // not sure how to name it, base on figma file
 } as const;

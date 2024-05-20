@@ -3,7 +3,7 @@ import { Path } from 'react-native-svg';
 import { Icon, IconProps } from './Icon';
 
 export const HeartIcon = (props: IconProps) => (
-  <Icon fill="none" {...props}>
+  <Icon fill={props.fillColor} {...props}>
     <Path
       stroke={props.color}
       strokeLinecap="round"
