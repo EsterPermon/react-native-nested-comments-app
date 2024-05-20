@@ -1,1 +1,44 @@
-{}
+[
+  {
+    "id": "d62559b6-2cc4-46ce-8b66-d0ef4c836677",
+    "parentId": "2c0bc1f4-ba40-4ad6-a5f8-1e2c3e69e169",
+    "text": "You could also check this website: codingisfun.com. They have a great blog with tons of resources!",
+    "createdAt": 1716042163474,
+    "isLiked": false,
+    "authorName": "onemore_83"
+  },
+  {
+    "id": "f75be426-e58e-4ec7-93d0-8d534712cfe4",
+    "parentId": null,
+    "text": "Though it seems the drag feature could be improved. But overall it looks good I think. I have adjusted the design and the responsiveness at various breakpoints works really well.",
+    "createdAt": 1684506163474,
+    "isLiked": false,
+    "authorName": "user_1"
+  },
+
+  {
+    "id": "2c0bc1f4-ba40-4ad6-a5f8-1e2c3e69e169",
+    "parentId": "b4433ca0-5dc4-4636-8c24-62e99128b88b",
+    "text": "If you’re still new, I’d recommend focusing on the fundamentals of HTML, CSS, and JS before considering React. It’s very tempting to jump ahead but lay a solid foundation first.",
+    "createdAt": 1715523763474,
+    "isLiked": false,
+    "authorName": "aperson_89"
+  },
+
+  {
+    "id": "c66d9313-8334-4b6e-a89b-68d10c63163d",
+    "parentId": null,
+    "text": "I couldn’t agree more with this. Everything moves so fast and it always seems like everyone knows the newest library/framework. But the fundamentals are what stay constant.",
+    "createdAt": 1716124963474,
+    "isLiked": true,
+    "authorName": "anotherguy"
+  },
+  {
+    "id": "b4433ca0-5dc4-4636-8c24-62e99128b88b",
+    "parentId": "f75be426-e58e-4ec7-93d0-8d534712cfe4",
+    "text": "Woah, your project looks awesome! How long have you been coding for? I’m still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!",
+    "createdAt": 1713536563474,
+    "isLiked": false,
+    "authorName": "someone"
+  }
+]
